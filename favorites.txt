@@ -2,3 +2,7 @@ veg pizza
 veg burger
 veg noodles
 chocolate iceCream
+horror movies
+zombie movies
+fictional sci-fi movies
+biography based movies
